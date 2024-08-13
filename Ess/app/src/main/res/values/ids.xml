@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Back Arrow -->
+    <item name="backArrow" type="id"/>
+
+    <!-- Product Image -->
+    <item name="product_image" type="id"/>
+
+    <!-- Product Sale Text -->
+    <item name="product_sale_text" type="id"/>
+
+    <!-- Product Name -->
+    <item name="product_name" type="id"/>
+
+    <!-- Product Price -->
+    <item name="product_price" type="id"/>
+
+    <!-- Product Sold Count -->
+    <item name="product_sold_count" type="id"/>
+
+    <!-- Product Free Shipping -->
+    <item name="product_free_shipping" type="id"/>
+
+    <!-- Product Rating Star -->
+    <item name="product_rating_star" type="id"/>
+
+    <!-- Product Rating Value -->
+    <item name="product_rating_value" type="id"/>
+</resources>

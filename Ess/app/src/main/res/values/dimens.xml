@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_title_text_size">35sp</dimen>
+    <dimen name="button_background_radius">10dp</dimen>
+
+    <dimen name="auth_header_image_height">200dp</dimen>
+    <dimen name="auth_logo_width_size">220dp</dimen>
+    <dimen name="auth_logo_height_size">100dp</dimen>
+    <dimen name="title_textSize">18sp</dimen>
+    <dimen name="et_textSize">16sp</dimen>
+    <dimen name="et_padding">16dp</dimen>
+    <dimen name="clickable_text_view_padding">5dp</dimen>
+    <dimen name="forgot_password_textSize">14sp</dimen>
+    <dimen name="btn_textSize">18sp</dimen>
+    <dimen name="btn_padding">8dp</dimen>
+    <dimen name="lbl_text_view_textSize">16sp</dimen>
+
+
+</resources>

@@ -1,0 +1,29 @@
+ {
+  "project_info": {
+    "project_number": "55597722034",
+    "project_id": "ess44-3cd09",
+    "storage_bucket": "ess44-3cd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55597722034:android:c7b0b09528ee5a69621cab",
+        "android_client_info": {
+          "package_name": "com.example.ess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmYJR1y0qYucGG8bWdm1xi5X8heQLYjA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
